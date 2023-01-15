@@ -1,0 +1,21 @@
+h1{
+  font-size: 60px;
+}
+
+h2{
+  font-size: 40px;
+}
+
+p{
+  font-size: 30px;
+}
+
+.navfood {
+  background-color: #000000;
+}
+
+.navfood a {
+  color: white;
+  padding: 14px 16px;
+  font-size: 17px;
+}
