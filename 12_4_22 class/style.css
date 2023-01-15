@@ -1,0 +1,31 @@
+h1 {
+    color: darkgreen;
+}
+
+#header1 {
+    color: green;
+}
+
+#header2 {
+    color: cornflowerblue;
+}
+
+#header3 {
+    color: blue;
+}
+
+#paragraph1 {
+    color: chocolate;
+}
+
+#paragraph2 {
+    color: darkkhaki;
+}
+
+#paragraph3 {
+    color: coral;
+}
+body {
+    animation: fadein cubic-bezier(0.25, 1.1, 0.98, -0.26) 0.5s;
+
+}
